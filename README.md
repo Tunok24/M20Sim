@@ -1,7 +1,6 @@
 
 
-This is a simulation of the M20 beamline
-  written by Tunok Mondol, Winter 2021
+This is a simulation of the M20 beamline.
   Additional files needed to run this g4bl file:
   Kickerfield.txt, 12dq12map.txt, 12q12map.txt and
   BOpera9ASep.txt
