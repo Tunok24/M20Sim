@@ -6,7 +6,8 @@ This is a simulation of the M20 beamline
   Kickerfield.txt, 12dq12map.txt, 12q12map.txt and
   BOpera9ASep.txt
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/[Tunok24]/[M20Sim]/blob/[main]/Screen Shot 2021-04-22 at 3.31.41 PM.png?raw=true)
 
 Simulation to date April, 2021.
 	Things that need to be resolved: 
