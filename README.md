@@ -6,7 +6,8 @@ This is a simulation of the M20 beamline.
   BOpera9ASep.txt
 
 
-<img width="400" alt="Screen Shot 2021-04-22 at 3 29 41 PM" src="https://user-images.githubusercontent.com/53085784/190866403-178dc4a8-34e9-4afd-9318-3ab0aa83818a.png">
+<img width="400" alt="Screen Shot 2021-04-22 at 3 31 41 PM" src="https://user-images.githubusercontent.com/53085784/190867201-fbc74870-cdbc-4a32-9fd9-405cf5bbf563.png">
+
 
 Simulation to date April, 2021.
 	Things that need to be resolved: 
